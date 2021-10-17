@@ -31,7 +31,7 @@ Program commands:
 * `-h - help`
 * `-v (version) - program version`
 
-![image](https://github.com/DFofanov/ConvJudgesToCSV/images/dosc.gif)
+![image](https://github.com/DFofanov/ConvJudgesToCSV/blob/main/images/docs.gif?raw=true)
 
 ### License
 ____
