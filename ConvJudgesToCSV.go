@@ -378,7 +378,7 @@ func PrintUsage() {
 
 func main() {
 	goopt.Author = "Dmitry Fofanov"
-	goopt.Version = "Link"
+	goopt.Version = "0.1"
 	goopt.Summary = "Converting Excel file with data on judges to Csv format"
 	goopt.Usage = func() string {
 		return fmt.Sprintf("Usage:\t%s FileXlsx FileCsv\n or:\t%s OPTION\n", os.Args[0], os.Args[0]) + goopt.Summary + "\n\n" + goopt.Help()
