@@ -1,6 +1,8 @@
 # ConvJudgesToCSV
 
 ## _Converting Excel file with data on judges to Csv format_
+
+[<img alt="Goland" src="https://img.shields.io/badge/Go-00ADD8?style=float&logo=go&logoColor=white" />](https://golang.org/)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DFofanov/ConvJudgesToCSV)
 [![GitHub license](https://img.shields.io/github/license/DFofanov/ConvJudgesToCSV)](https://github.com/DFofanov/ConvJudgesToCSV/blob/main/LICENSE)
 
