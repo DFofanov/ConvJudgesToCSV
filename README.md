@@ -28,8 +28,8 @@ An example of using the program:
 
 
 Commands:
-* `-h - help`
-* `-v (version) - program version`
+* -h (help)
+* -v (program version)
 
 ![image](https://github.com/DFofanov/ConvJudgesToCSV/blob/main/images/docs.gif?raw=true)
 
